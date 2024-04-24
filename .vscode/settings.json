@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "__locale": "cpp",
+        "string_view": "cpp",
+        "vector": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "__bit_reference": "cpp",
+        "__hash_table": "cpp",
+        "unordered_map": "cpp",
+        "tuple": "cpp",
+        "istream": "cpp",
+        "iostream": "cpp",
+        "fstream": "cpp"
+    }
+}
